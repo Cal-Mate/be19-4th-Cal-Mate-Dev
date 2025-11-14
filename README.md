@@ -1,5 +1,10 @@
 # 맞춤형 운동 다이어트 & 식단 관리 서비스
----
+
+<p align="center">
+  <img src="https://github.com/Youth-Leap-Squad/EatToday_store/blob/main/src/assets/img/%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%9C%84%EC%95%84%EB%9E%98%20%EC%9E%90%EB%A5%B8%20%EB%B2%84%EC%A0%84.jpg" width="45%"/>
+</p>
+
+
 <h1>작은 변화부터 가볍게 시작해요. CalMate가 함께할게요!</h1>
 
 > **맞춤형 운동 다이어트 & 식단 관리 서비스** 란 본인의 체형 및 기초대사량을 기반으로 식단 및 운동 기록 뿐만 아니라 AI를 통해 추천하고, 게시판 소통을 하며 이벤트 게임을 통해 유익한 정보를 공유하는 서비스입니다.
