@@ -1,7 +1,7 @@
 # 맞춤형 운동 다이어트 & 식단 관리 서비스
 
 <p align="center">
-  <img src="https://github.com/Youth-Leap-Squad/EatToday_store/blob/main/src/assets/img/%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%9C%84%EC%95%84%EB%9E%98%20%EC%9E%90%EB%A5%B8%20%EB%B2%84%EC%A0%84.jpg" width="45%"/>
+  <img width="1430" height="806" alt="image" src="https://github.com/user-attachments/assets/a25e540e-3fb5-4edd-bf2d-053bef1073f0" />
 </p>
 
 
@@ -106,6 +106,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌿 Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
